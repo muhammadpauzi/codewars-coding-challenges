@@ -1,3 +1,6 @@
+// Link Kata
+// https://www.codewars.com/kata/56dbe7f113c2f63570000b86/train/javascript
+
 function rot(strng) {
     let result = '';
     for (let i = strng.length - 1; i >= 0; i--) {
